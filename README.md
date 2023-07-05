@@ -6,7 +6,7 @@ About The Project:- This Project is a complete web application project based on 
    
 2) Hibernate
    
-3)MySQL
+3) MySQL
 
 This project has 3 Modules are as Follows:
 
