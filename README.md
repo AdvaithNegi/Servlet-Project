@@ -2,9 +2,11 @@ It is a Web Application based on Servlet, Hibernate, JSP.
 
 About The Project:- This Project is a complete web application project based on Servlet and Hibernate Framework + JPA. In pom.xml we added three dependecies i.e.
 
-Servelt-api
-Hibernate
-MySQL
+1) Servelt-api
+   
+2) Hibernate
+   
+3)MySQL
 
 This project has 3 Modules are as Follows:
 
@@ -24,18 +26,18 @@ Relation between Student and Course is one-to-many relationship.
 
 Tools and Technologies used:-
 
-Eclipse IDE
+1) Eclipse IDE
 
-Maven 4.0
+2) Maven 4.0
 
-MySQL 8.0
+3) MySQL 8.0
 
-Hibernate
+4) Hibernate
 
-Servlet
+5) Servlet
 
-Java
+6) Java
 
-JSP
+7) JSP
 
-Tomcat(server)
+8) Tomcat(server)
